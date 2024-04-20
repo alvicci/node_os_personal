@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "Chijioke",
+    "lastName": "Okafor",
+    "age": 28,
+    "email": "chijioke.okafor@gmail.com"
+  },
+  {
+    "firstName": "Ngozi",
+    "lastName": "Eze",
+    "age": 35,
+    "email": "ngozi.eze@yahoo.com"
+  },
+  {
+    "firstName": "Emeka",
+    "lastName": "Ugwu",
+    "age": 25,
+    "email": "emeka.ugwu@hotmail.com"
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Abdullahi",
+    "age": 32,
+    "email": "fatima.abdullahi@gmail.com"
+  },
+  {
+    "firstName": "Ade",
+    "lastName": "Adewale",
+    "age": 30,
+    "email": "ade.adewale@yahoo.com"
+  },
+  {
+    "firstName": "Amina",
+    "lastName": "Ibrahim",
+    "age": 27,
+    "email": "amina.ibrahim@hotmail.com"
+  },
+  {
+    "firstName": "Olu",
+    "lastName": "Adebayo",
+    "age": 33,
+    "email": "olu.adebayo@gmail.com"
+  },
+  {
+    "firstName": "Abdul",
+    "lastName": "Mohammed",
+    "age": 58,
+    "email": "abdul.mohammed@yahoo.com"
+  },
+  {
+    "firstName": "Nneka",
+    "lastName": "Okonkwo",
+    "age": 31,
+    "email": "nneka.okonkwo@hotmail.com"
+  },
+  {
+    "firstName": "Yusuf",
+    "lastName": "Ojo",
+    "age": 26,
+    "email": "yusuf.ojo@gmail.com"
+  }
+]
